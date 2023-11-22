@@ -1,1 +1,1 @@
-abc@abc.com
+oss@oss.com
