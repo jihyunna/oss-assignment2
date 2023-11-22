@@ -1,1 +1,1 @@
-oss@oss.com
+github@github.com
